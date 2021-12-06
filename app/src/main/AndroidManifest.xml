@@ -10,7 +10,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Budgetly">
 
-        <activity android:name=".ViewAppRootActivity"
+        <activity android:name=".approot.ViewAppRootActivity"
             android:exported="true">
             <intent-filter>
                 <category android:name="android.intent.category.LAUNCHER" />

@@ -9,7 +9,7 @@
         android:layout_height="wrap_content"
         app:liftOnScroll="true">
 
-        <com.google.android.material.appbar.MaterialToolbar
+        <co.za.kaylentravispillay.budgetly.shared.toolbar.ViewSharedToolbar
             android:id="@+id/app_root_toolbar"
             android:layout_width="match_parent"
             android:layout_height="wrap_content" />
